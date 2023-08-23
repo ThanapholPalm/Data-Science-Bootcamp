@@ -1,2 +1,25 @@
 # Data-Science-Bootcamp
-These are my Project collection had been done so far.
+
+All my data Project in the bootcamp. There are 10 Sprints as follow.
+
+-Google sheets
+
+-SQL
+
+-R Programming
+
+-Data Transformation
+
+-Data Visualization
+
+-Essential Statistics
+
+-Essential ML
+
+-Python
+
+-Python for Data Analyst
+
+-Dashboard
+
+Verified Badge :
